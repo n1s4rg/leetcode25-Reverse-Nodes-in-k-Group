@@ -1,0 +1,7 @@
+C:\Users\Sami\source\repos\Assignment12\Assignment12\bin\Debug\Assignment12.exe.config
+C:\Users\Sami\source\repos\Assignment12\Assignment12\bin\Debug\Assignment12.exe
+C:\Users\Sami\source\repos\Assignment12\Assignment12\bin\Debug\Assignment12.pdb
+C:\Users\Sami\source\repos\Assignment12\Assignment12\obj\Debug\Assignment12.csproj.AssemblyReference.cache
+C:\Users\Sami\source\repos\Assignment12\Assignment12\obj\Debug\Assignment12.csproj.CoreCompileInputs.cache
+C:\Users\Sami\source\repos\Assignment12\Assignment12\obj\Debug\Assignment12.exe
+C:\Users\Sami\source\repos\Assignment12\Assignment12\obj\Debug\Assignment12.pdb
